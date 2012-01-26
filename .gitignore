@@ -1,0 +1,17 @@
+
+/00-Presentation.Web/obj
+/00-Presentation.Web/bin
+/01-Presentation.Web.Tests/obj
+/01-Presentation.Web.Tests/bin
+/10-Domain/obj
+/10-Domain/bin
+/11-Domain.Test/obj
+/11-Domain.Test/bin
+/20-Infrastructure.DataSource/obj
+/20-Infrastructure.DataSource/bin
+/21-Infrastructure.Configuration/obj
+/21-Infrastructure.Configuration/bin
+/22-Infrastruture.Test/obj
+/22-Infrastruture.Test/bin
+/30-CrossCutting.Common/obj
+/30-CrossCutting.Common/bin
